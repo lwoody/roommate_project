@@ -2415,3 +2415,72 @@ Started GET "/assets/businessman-b81dd8a15af1c91d64d2f101bc4889071492ad25a632227
 
 
 Started GET "/assets/roommate1-79299b2075d3690470f755fee6fc68379dd7b6851ed3a6ae5f75b15c1d545e80.jpg" for ::1 at 2016-07-15 02:09:34 +0900
+
+
+Started GET "/" for ::1 at 2016-07-15 03:13:46 +0900
+Processing by HomeController#main as HTML
+  Rendered home/main.html.erb within layouts/application (334.0ms)
+Completed 200 OK in 509ms (Views: 494.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-15 03:13:47 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-15 03:13:47 +0900
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-15 03:13:47 +0900
+
+
+Started GET "/list" for ::1 at 2016-07-15 03:13:48 +0900
+Processing by HomeController#list as HTML
+  Rendered home/list.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/roommate2-c5399c42f333a3b12406e3a972baab42fb4733889855c4c65c255450e87abe78.jpg" for ::1 at 2016-07-15 03:13:48 +0900
+
+
+Started GET "/assets/roommate1-79299b2075d3690470f755fee6fc68379dd7b6851ed3a6ae5f75b15c1d545e80.jpg" for ::1 at 2016-07-15 03:13:53 +0900
+
+
+Started GET "/" for ::1 at 2016-07-15 03:14:08 +0900
+Processing by HomeController#main as HTML
+  Rendered home/main.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/seoul-a9440e67d31347e4632b7d2d16e4ce244e9ea8305823c5953b7e911444e48bf6.jpg" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/busan-0bd18f2a6f08a38eef66ea677a65c660431fab53dafa355747268204b3cd33e9.jpg" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/student-f45b97db7f59427705b40fe71945547d318254eb85ace4327da6d6c6b408a08e.jpg" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/businessman-b81dd8a15af1c91d64d2f101bc4889071492ad25a6322270953e0d1b618fcadc.jpg" for ::1 at 2016-07-15 03:14:08 +0900
+
+
+Started GET "/assets/roommate1-79299b2075d3690470f755fee6fc68379dd7b6851ed3a6ae5f75b15c1d545e80.jpg" for ::1 at 2016-07-15 03:14:08 +0900
